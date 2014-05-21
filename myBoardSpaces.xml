@@ -1,0 +1,434 @@
+<object-stream>
+  <list>
+    <BoardSpace>
+      <name>Start/ Pass Go and collect 2million Euros</name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Westmeath</name>
+      <colour>Brown</colour>
+      <rent1>100000</rent1>
+      <rent2>300000</rent2>
+      <rent3>900000</rent3>
+      <rent4>1600000</rent4>
+      <mortgage>300000</mortgage>
+      <value>600000</value>
+      <deeds>Westmeath deeds</deeds>
+      <rentSite>20000</rentSite>
+      <hotelRent>2500000</hotelRent>
+      <apartmentCost>500000</apartmentCost>
+      <hotelCost>500000</hotelCost>
+    </County>
+    <BoardSpace>
+      <name>Community chest </name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Donegal </name>
+      <colour> Brown</colour>
+      <rent1>200000</rent1>
+      <rent2>600000</rent2>
+      <rent3>1800000</rent3>
+      <rent4>3200000</rent4>
+      <mortgage>300000</mortgage>
+      <value>600000</value>
+      <deeds>Donegal deeds</deeds>
+      <rentSite>40000</rentSite>
+      <hotelRent>4500000</hotelRent>
+      <apartmentCost>500000</apartmentCost>
+      <hotelCost>500000</hotelCost>
+    </County>
+    <BoardSpace>
+      <name>Income tax: pay 2 million euros!</name>
+      <colour> White</colour>
+    </BoardSpace>
+    <Province>
+      <name>Munster </name>
+      <colour> White</colour>
+      <rent1>250000</rent1>
+      <rent2>500000</rent2>
+      <rent3>1000000</rent3>
+      <rent4>2000000</rent4>
+      <mortgage>1000000</mortgage>
+      <value>2000000</value>
+    </Province>
+    <County>
+      <name>Sligo </name>
+      <colour> Blue</colour>
+      <rent1>300000</rent1>
+      <rent2>900000</rent2>
+      <rent3>2700000</rent3>
+      <rent4>4000000</rent4>
+      <mortgage>500000</mortgage>
+      <value>1000000</value>
+      <deeds>Sligo deeds</deeds>
+      <rentSite>60000</rentSite>
+      <hotelRent>5500000</hotelRent>
+      <apartmentCost>500000</apartmentCost>
+      <hotelCost>500000</hotelCost>
+    </County>
+    <BoardSpace>
+      <name>Chance </name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Down </name>
+      <colour> Blue</colour>
+      <rent1>300000</rent1>
+      <rent2>900000</rent2>
+      <rent3>2700000</rent3>
+      <rent4>4000000</rent4>
+      <mortgage>500000</mortgage>
+      <value>1000000</value>
+      <deeds>Down deeds</deeds>
+      <rentSite>60000</rentSite>
+      <hotelRent>5500000</hotelRent>
+      <apartmentCost>500000</apartmentCost>
+      <hotelCost>500000</hotelCost>
+    </County>
+    <County>
+      <name>Laois </name>
+      <colour> Blue</colour>
+      <rent1>400000</rent1>
+      <rent2>1000000</rent2>
+      <rent3>3000000</rent3>
+      <rent4>4500000</rent4>
+      <mortgage>600000</mortgage>
+      <value>1200000</value>
+      <deeds> Laois deeds</deeds>
+      <rentSite>80000</rentSite>
+      <hotelRent>6000000</hotelRent>
+      <apartmentCost>500000</apartmentCost>
+      <hotelCost>500000</hotelCost>
+    </County>
+    <BoardSpace>
+      <name>IN JAIL </name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Tyrone </name>
+      <colour> Pink</colour>
+      <rent1>500000</rent1>
+      <rent2>1500000</rent2>
+      <rent3>4500000</rent3>
+      <rent4>6250000</rent4>
+      <mortgage>700000</mortgage>
+      <value>1400000</value>
+      <deeds>Tyrone deeds</deeds>
+      <rentSite>100000</rentSite>
+      <hotelRent>7500000</hotelRent>
+      <apartmentCost>1000000</apartmentCost>
+      <hotelCost>1000000</hotelCost>
+    </County>
+    <Utility>
+      <name>Telecoms </name>
+      <colour> White</colour>
+      <value>1500000</value>
+      <mortgage>750000</mortgage>
+    </Utility>
+    <County>
+      <name>Cavan</name>
+      <colour> Pink</colour>
+      <rent1>500000</rent1>
+      <rent2>1500000</rent2>
+      <rent3>4500000</rent3>
+      <rent4>6250000</rent4>
+      <mortgage>700000</mortgage>
+      <value>1400000</value>
+      <deeds>Cavan deeds</deeds>
+      <rentSite>100000</rentSite>
+      <hotelRent>7500000</hotelRent>
+      <apartmentCost>1000000</apartmentCost>
+      <hotelCost>1000000</hotelCost>
+    </County>
+    <County>
+      <name>Kerry </name>
+      <colour> Pink</colour>
+      <rent1>600000</rent1>
+      <rent2>1800000</rent2>
+      <rent3>5000000</rent3>
+      <rent4>7000000</rent4>
+      <mortgage>800000</mortgage>
+      <value>1600000</value>
+      <deeds>Kerry deeds</deeds>
+      <rentSite>120000</rentSite>
+      <hotelRent>9000000</hotelRent>
+      <apartmentCost>1000000</apartmentCost>
+      <hotelCost>1000000</hotelCost>
+    </County>
+    <Province>
+      <name>Connaught </name>
+      <colour> White</colour>
+      <rent1>250000</rent1>
+      <rent2>500000</rent2>
+      <rent3>1000000</rent3>
+      <rent4>2000000</rent4>
+      <mortgage>1000000</mortgage>
+      <value>2000000</value>
+    </Province>
+    <County>
+      <name>Fermanagh </name>
+      <colour> Orange </colour>
+      <rent1>700000</rent1>
+      <rent2>2000000</rent2>
+      <rent3>5500000</rent3>
+      <rent4>7500000</rent4>
+      <mortgage>900000</mortgage>
+      <value>1800000</value>
+      <deeds> Fermanagh deeds </deeds>
+      <rentSite>140000</rentSite>
+      <hotelRent>9500000</hotelRent>
+      <apartmentCost>1000000</apartmentCost>
+      <hotelCost>1000000</hotelCost>
+    </County>
+    <BoardSpace>
+      <name>Community Chest </name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Leitrim </name>
+      <colour> Orange </colour>
+      <rent1>700000</rent1>
+      <rent2>2000000</rent2>
+      <rent3>5500000</rent3>
+      <rent4>7500000</rent4>
+      <mortgage>900000</mortgage>
+      <value>1800000</value>
+      <deeds> Leitrim deeds </deeds>
+      <rentSite>140000</rentSite>
+      <hotelRent>9500000</hotelRent>
+      <apartmentCost>1000000</apartmentCost>
+      <hotelCost>1000000</hotelCost>
+    </County>
+    <County>
+      <name>Galway </name>
+      <colour> Orange </colour>
+      <rent1>800000</rent1>
+      <rent2>2200000</rent2>
+      <rent3>6000000</rent3>
+      <rent4>8000000</rent4>
+      <mortgage>1000000</mortgage>
+      <value>2000000</value>
+      <deeds> Galway deeds </deeds>
+      <rentSite>160000</rentSite>
+      <hotelRent>10000000</hotelRent>
+      <apartmentCost>1000000</apartmentCost>
+      <hotelCost>1000000</hotelCost>
+    </County>
+    <BoardSpace>
+      <name>FREE PARKING </name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Meath </name>
+      <colour> Red </colour>
+      <rent1>900000</rent1>
+      <rent2>2500000</rent2>
+      <rent3>7000000</rent3>
+      <rent4>8750000</rent4>
+      <mortgage>1100000</mortgage>
+      <value>2200000</value>
+      <deeds> Meath deeds </deeds>
+      <rentSite>180000</rentSite>
+      <hotelRent>10500000</hotelRent>
+      <apartmentCost>1500000</apartmentCost>
+      <hotelCost>1500000</hotelCost>
+    </County>
+    <BoardSpace>
+      <name>Chance </name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Kilkenny </name>
+      <colour> Red </colour>
+      <rent1>900000</rent1>
+      <rent2>2500000</rent2>
+      <rent3>7000000</rent3>
+      <rent4>8750000</rent4>
+      <mortgage>1100000</mortgage>
+      <value>2200000</value>
+      <deeds> Kilkenny deeds </deeds>
+      <rentSite>180000</rentSite>
+      <hotelRent>10500000</hotelRent>
+      <apartmentCost>1500000</apartmentCost>
+      <hotelCost>1500000</hotelCost>
+    </County>
+    <County>
+      <name>Offaly </name>
+      <colour> Red </colour>
+      <rent1>1000000</rent1>
+      <rent2>3000000</rent2>
+      <rent3>7500000</rent3>
+      <rent4>9225000</rent4>
+      <mortgage>1200000</mortgage>
+      <value>2400000</value>
+      <deeds> Offaly deeds </deeds>
+      <rentSite>200000</rentSite>
+      <hotelRent>11000000</hotelRent>
+      <apartmentCost>1500000</apartmentCost>
+      <hotelCost>1500000</hotelCost>
+    </County>
+    <Province>
+      <name>Leinster </name>
+      <colour> White</colour>
+      <rent1>250000</rent1>
+      <rent2>500000</rent2>
+      <rent3>1000000</rent3>
+      <rent4>2000000</rent4>
+      <mortgage>1000000</mortgage>
+      <value>2000000</value>
+    </Province>
+    <County>
+      <name>Mayo </name>
+      <colour> Yellow </colour>
+      <rent1>1100000</rent1>
+      <rent2>3300000</rent2>
+      <rent3>8000000</rent3>
+      <rent4>9750000</rent4>
+      <mortgage>1300000</mortgage>
+      <value>2600000</value>
+      <deeds> Mayo deeds </deeds>
+      <rentSite>220000</rentSite>
+      <hotelRent>11500000</hotelRent>
+      <apartmentCost>1500000</apartmentCost>
+      <hotelCost>1500000</hotelCost>
+    </County>
+    <County>
+      <name>Dublin </name>
+      <colour> Yellow </colour>
+      <rent1>1100000</rent1>
+      <rent2>3300000</rent2>
+      <rent3>8000000</rent3>
+      <rent4>9750000</rent4>
+      <mortgage>1300000</mortgage>
+      <value>2600000</value>
+      <deeds> Dublin deeds </deeds>
+      <rentSite>220000</rentSite>
+      <hotelRent>11500000</hotelRent>
+      <apartmentCost>1500000</apartmentCost>
+      <hotelCost>1500000</hotelCost>
+    </County>
+    <Utility>
+      <name>Internet </name>
+      <colour> White</colour>
+      <value>1500000</value>
+      <mortgage>750000</mortgage>
+    </Utility>
+    <County>
+      <name>Louth </name>
+      <colour> Yellow </colour>
+      <rent1>1200000</rent1>
+      <rent2>3600000</rent2>
+      <rent3>8500000</rent3>
+      <rent4>10250000</rent4>
+      <mortgage>1400000</mortgage>
+      <value>2800000</value>
+      <deeds> Louth deeds </deeds>
+      <rentSite>240000</rentSite>
+      <hotelRent>12000000</hotelRent>
+      <apartmentCost>1500000</apartmentCost>
+      <hotelCost>1500000</hotelCost>
+    </County>
+    <BoardSpace>
+      <name>GO TO JAIL </name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Wexford </name>
+      <colour> Green </colour>
+      <rent1>1300000</rent1>
+      <rent2>3900000</rent2>
+      <rent3>9000000</rent3>
+      <rent4>11000000</rent4>
+      <mortgage>1500000</mortgage>
+      <value>3000000</value>
+      <deeds> Wexford deeds </deeds>
+      <rentSite>260000</rentSite>
+      <hotelRent>12750000</hotelRent>
+      <apartmentCost>2000000</apartmentCost>
+      <hotelCost>2000000</hotelCost>
+    </County>
+    <County>
+      <name>Limerick </name>
+      <colour> Green </colour>
+      <rent1>1300000</rent1>
+      <rent2>3900000</rent2>
+      <rent3>9000000</rent3>
+      <rent4>11000000</rent4>
+      <mortgage>1500000</mortgage>
+      <value>3000000</value>
+      <deeds> Limerick deeds </deeds>
+      <rentSite>260000</rentSite>
+      <hotelRent>12750000</hotelRent>
+      <apartmentCost>2000000</apartmentCost>
+      <hotelCost>2000000</hotelCost>
+    </County>
+    <BoardSpace>
+      <name>Community Chest </name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Waterford </name>
+      <colour> Green </colour>
+      <rent1>1500000</rent1>
+      <rent2>4500000</rent2>
+      <rent3>10000000</rent3>
+      <rent4>12000000</rent4>
+      <mortgage>1600000</mortgage>
+      <value>3200000</value>
+      <deeds> Waterford deeds </deeds>
+      <rentSite>280000</rentSite>
+      <hotelRent>14000000</hotelRent>
+      <apartmentCost>2000000</apartmentCost>
+      <hotelCost>2000000</hotelCost>
+    </County>
+    <Province>
+      <name>Ulster </name>
+      <colour> White</colour>
+      <rent1>250000</rent1>
+      <rent2>500000</rent2>
+      <rent3>1000000</rent3>
+      <rent4>2000000</rent4>
+      <mortgage>1000000</mortgage>
+      <value>2000000</value>
+    </Province>
+    <BoardSpace>
+      <name>Chance </name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Cork </name>
+      <colour> Navy </colour>
+      <rent1>1750000</rent1>
+      <rent2>5000000</rent2>
+      <rent3>11000000</rent3>
+      <rent4>13000000</rent4>
+      <mortgage>1750000</mortgage>
+      <value>3500000</value>
+      <deeds> Cork deeds </deeds>
+      <rentSite>350000</rentSite>
+      <hotelRent>15000000</hotelRent>
+      <apartmentCost>2000000</apartmentCost>
+      <hotelCost>2000000</hotelCost>
+    </County>
+    <BoardSpace>
+      <name>Stamp Duty: Pay 1 million euros! </name>
+      <colour> White</colour>
+    </BoardSpace>
+    <County>
+      <name>Roscommon </name>
+      <colour> Navy </colour>
+      <rent1>2000000</rent1>
+      <rent2>6000000</rent2>
+      <rent3>14000000</rent3>
+      <rent4>17000000</rent4>
+      <mortgage>2000000</mortgage>
+      <value>4000000</value>
+      <deeds> Roscommon deeds </deeds>
+      <rentSite>500000</rentSite>
+      <hotelRent>20000000</hotelRent>
+      <apartmentCost>2000000</apartmentCost>
+      <hotelCost>2000000</hotelCost>
+    </County>
+  </list>
+</object-stream>
